@@ -2,16 +2,13 @@
 
 This is a small application to allow users to toggle between dark/light mode.
 
-I built this as a stand alone application to get a better understanding of implementing styled components in a React application and so I could add this feature to another larger React application I'm developing here:
-https://github.com/StephensGit/Todo-App/tree/main/todo-app-2
+I built this as a stand alone application to get a better understanding of implementing styled components in a React application and so I could add this feature to another larger React application.
 
 
 
 ## Tech Stack
 
 **Client:** React, Context API, Styled Components 💅
-
-**Hosted:** Firebase
 
   
 ## Run Locally
